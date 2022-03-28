@@ -16,10 +16,10 @@
     "lint-all": "yarn lint && yarn type-check"
   },
   "dependencies": {
-    "@blockworks-foundation/mango-client": "^3.3.26",
+    "@blockworks-foundation/mango-client": "^3.3.28",
     "@headlessui/react": "^0.0.0-insiders.2dbc38c",
     "@heroicons/react": "^1.0.0",
-    "@jup-ag/react-hook": "^1.0.0-beta.16",
+    "@jup-ag/react-hook": "^1.0.0-beta.19",
     "@project-serum/serum": "0.13.55",
     "@project-serum/sol-wallet-adapter": "0.2.0",
     "@solana/web3.js": "^1.31.0",
@@ -61,6 +61,7 @@
     "@typescript-eslint/eslint-plugin": "^4.33.0",
     "@typescript-eslint/parser": "^4.33.0",
     "autoprefixer": "^10.4.2",
+    "encoding": "^0.1.13",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^7.2.0",
     "eslint-plugin-react": "^7.26.0",
