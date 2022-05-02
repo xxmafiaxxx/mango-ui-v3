@@ -5,6 +5,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
+        <meta name="google-site-verification" content="NQByf05uWW3LyZPXuYSc28xIDJAZHplLTbtoaTwhyBs" />
           <link
             href="https://fonts.googleapis.com/css2?family=Lato:wght@200;300;400;500;600;700&display=swap"
             rel="stylesheet"

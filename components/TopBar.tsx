@@ -97,21 +97,8 @@ const TopBar = () => {
                       true,
                       <LightBulbIcon className="h-4 w-4" key="learn" />,
                     ],
-                    [
-                      t('governance'),
-                      'https://dao.mango.markets/',
-                      true,
-                      <LibraryIcon className="h-4 w-4" key="governance" />,
-                    ],
-                    [
-                      'Mango v2',
-                      'https://v2.mango.markets',
-                      true,
-                      <MangoIcon
-                        className="h-4 w-4 stroke-current"
-                        key="mango-v2"
-                      />,
-                    ],
+                   
+                    
                     
                   ]}
                 />
