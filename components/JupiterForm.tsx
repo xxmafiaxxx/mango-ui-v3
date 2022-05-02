@@ -71,8 +71,8 @@ const JupiterForm: FunctionComponent = () => {
   const [slippage, setSlippage] = useState(0.5)
   const [formValue, setFormValue] = useState<UseFormValue>({
     amount: null,
-    inputMint: new PublicKey('EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'),
-    outputMint: new PublicKey('MangoCzJ36AjZyKwVj3VnYU4GTonjfVEnJmvvWaxLac'),
+    inputMint: new PublicKey('So11111111111111111111111111111111111111112'),
+    outputMint: new PublicKey('823dnFBD7dUCbBr9tvD6oT3JHo286dx93opVLgqKT21u'),
     slippage,
   })
   const [hasSwapped, setHasSwapped] = useLocalStorageState('hasSwapped', false)
