@@ -112,15 +112,7 @@ const TopBar = () => {
                         key="mango-v2"
                       />,
                     ],
-                    [
-                      'Mango v1',
-                      'https://v1.mango.markets',
-                      true,
-                      <MangoIcon
-                        className="h-4 w-4 stroke-current"
-                        key="mango-v1"
-                      />,
-                    ],
+                    
                   ]}
                 />
               </div>
