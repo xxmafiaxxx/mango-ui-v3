@@ -14,11 +14,11 @@ import TradeNavMenu from './TradeNavMenu'
 import {
   CalculatorIcon,
   CurrencyDollarIcon,
-  LibraryIcon,
+  
   LightBulbIcon,
   UserAddIcon,
 } from '@heroicons/react/outline'
-import { MangoIcon } from './icons'
+//import { MangoIcon } from './icons'
 import { useWallet } from '@solana/wallet-adapter-react'
 
 // const StyledNewLabel = ({ children, ...props }) => (
