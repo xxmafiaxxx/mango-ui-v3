@@ -11,6 +11,8 @@ class MyDocument extends Document {
             rel="stylesheet"
           />
           <script src="/datafeeds/udf/dist/bundle.js" />
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8073049211625467"
+     crossOrigin="anonymous"></script>
         </Head>
         <body>
           <Main />
