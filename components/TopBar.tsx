@@ -68,6 +68,7 @@ const TopBar = () => {
                 <MenuItem href="/markets">{t('markets')}</MenuItem>
                 <MenuItem href="/borrow">{t('borrow')}</MenuItem>
                 <MenuItem href="/swap">{t('swap')}</MenuItem>
+                <MenuItem href="/swap">{t('Sou Sou')}</MenuItem>
                 <MenuItem href="/stats">{t('stats')}</MenuItem>
                 <NavDropMenu
                   menuTitle={t('more')}
